@@ -1,8 +1,8 @@
-Parcial I - Recursividad y Gestión de Datos en C
+## Parcial I - Recursividad y Gestión de Datos en C
 
-Estudiante: [Lina Marceña Bravo Cuero
-Materia: Programación  
-Fecha: 21 de septiembre de 2025  
+# Estudiante: [Lina Marceña Bravo Cuero
+# Materia: Programación  
+# Fecha: 21 de septiembre de 2025  
 
  
 Este programa en C gestiona una lista predefinida de estudiantes (código y nota) y permite realizar operaciones utilizando recursividad.
