@@ -1,7 +1,7 @@
 # Parcial I - Recursividad y Gestión de Datos en C
 
 - Estudiante: [Lina Marceña Bravo Cuero
-- Materia: Programación  
+- Materia: Eatructura De Datos  
 - Fecha: 21 de septiembre de 2025  
 
  
